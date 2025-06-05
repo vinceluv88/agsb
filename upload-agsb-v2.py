@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "vinceluv"         # 用户名
 UUID = "470f8332-933d-41d1-816f-d9bba09f20a8"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "test.raymondleung.dpdns.org"                   # 域名，留空则自动获取
+DOMAIN = "go.raymondleung.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiOWFjOTBlZGE1NWRiZGQyMzc5NDdjOGUxNTNhOGEzN2EiLCJ0IjoiZjJjMjM0YjAtZjg3Zi00MDI4LTgwODktNjg3ODgwNWM4ZTFkIiwicyI6IlkyTTFPREJqWmpjdFpEY3dZaTAwTm1RekxXRmtPV1V0Wm1abFpUY3hObVF4TXpsaSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
