@@ -35,7 +35,7 @@ USER_NAME = "vinceluv"         # 用户名
 UUID = "470f8332-933d-41d1-816f-d9bba09f20a8"                     # UUID，留空则自动生成
 PORT = 43999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "test.raymondleung.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "cloudflared.exe service install eyJhIjoiOWFjOTBlZGE1NWRiZGQyMzc5NDdjOGUxNTNhOGEzN2EiLCJ0IjoiNTRhMjRlYjQtM2U2OS00Y2U2LWFkM2MtMzBjYzQ5MDlmNGMyIiwicyI6IlpqUm1aR0V3WVdZdE1tWTRZeTAwT0RabUxXSm1aVE10TXpNM01ETTVZVE0zT1RWbSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiOWFjOTBlZGE1NWRiZGQyMzc5NDdjOGUxNTNhOGEzN2EiLCJ0IjoiNTRhMjRlYjQtM2U2OS00Y2U2LWFkM2MtMzBjYzQ5MDlmNGMyIiwicyI6IlpqUm1aR0V3WVdZdE1tWTRZeTAwT0RabUxXSm1aVE10TXpNM01ETTVZVE0zT1RWbSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
